@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TECNO-LG6n.mk
+    $(LOCAL_DIR)/twrp_TECNO-LG6n.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-LG6n-user \
-    omni_TECNO-LG6n-userdebug \
-    omni_TECNO-LG6n-eng
+    twrp_TECNO-LG6n-user \
+    twrp_TECNO-LG6n-userdebug \
+    twrp_TECNO-LG6n-eng
